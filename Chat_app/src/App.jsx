@@ -10,13 +10,6 @@ function App() {
     Hello world!
 
     Suyash Nigam
-   
-    Madhav Sharma
-
-    
-   
-
-   
     </h1>
     </>
   )
