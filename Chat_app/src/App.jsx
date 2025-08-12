@@ -12,7 +12,8 @@ function App() {
     Suyash Nigam
     komal vaishnav
     Madhav Sharma
-    MCA
+    MCA 
+    mca
     navdha
     </h1>
     </>
