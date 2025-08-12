@@ -12,6 +12,8 @@ function App() {
     Suyash Nigam
 
     Madhav Sharma
+
+    MCA
     </h1>
     </>
   )
