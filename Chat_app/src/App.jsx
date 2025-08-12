@@ -10,7 +10,7 @@ function App() {
     Hello world!
 
     Suyash Nigam
-      komal
+    
     </h1>
     </>
   )
