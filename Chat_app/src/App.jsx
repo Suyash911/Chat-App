@@ -10,12 +10,11 @@ function App() {
     Hello world!
 
     Suyash Nigam
-    komal vaishnav
+   
     Madhav Sharma
-    MCA 
-    mca
-    navdha
-    ankit
+   
+
+   
     </h1>
     </>
   )
