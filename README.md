@@ -8,5 +8,3 @@ Madhav Sharma
 Ankit Dadheech
 Komal Vaishnav
 Navdha Jain
-suyash nigam 30@gmail.com
-ok sir
