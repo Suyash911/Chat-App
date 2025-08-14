@@ -1,4 +1,8 @@
 import { useState } from 'react'
+import HomePage from './Pages/HomePage'
+import LoginPage from './Pages/LoginPage'
+import ProfilePage from './Pages/ProfilePage'
+import { Routes, Route } from 'react-router-dom'
 import './App.css'
 
 function App() {
@@ -6,16 +10,16 @@ function App() {
 
   return (
     <>
-    <h1 class="text-3xl font-bold underline">
-    Hello world!
 
-    Suyash Nigam
+    <div className="bg-[url('./src/assets/bgImage.svg')] bg-contain">
+  <Routes>
+  <Route path='/' element={<HomePage/>}/>
+  <Route path='/login' element={<LoginPage/>}/>
+  <Route path='/profile' element={<ProfilePage/>}/>
+  </Routes>
 
-    Madhav Sharma
-
-    MCA
-    </h1>
-    </>
+    </div>
+   </>
   )
 }
 
